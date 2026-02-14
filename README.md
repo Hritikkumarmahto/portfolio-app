@@ -357,9 +357,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - your.email@example.com
+Your Name - [@yourtwitter](https://twitter.com/) - your.hritik7645@example.com
 
-Project Link: [https://github.com/yourusername/portfolio-app](https://github.com/yourusername/portfolio-app)
+Project Link: [https://github.com/Hritikkumarmahto/portfolio-app](https://github.com/Hritikkumarmahto/portfolio-app)
 
 ---
 
