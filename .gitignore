@@ -1,0 +1,70 @@
+# Backend (Java/Maven)
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/.idea/
+backend/*.iml
+backend/*.iws
+backend/*.ipr
+backend/.settings/
+backend/.classpath
+backend/.project
+backend/bin/
+backend/build/
+backend/out/
+
+# Frontend (React/Node)
+frontend/node_modules/
+frontend/build/
+frontend/.pnp
+frontend/.pnp.js
+frontend/coverage/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# Logs
+*.log
+logs/
+backend.log
+frontend.log
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+h2/
+
+# Misc
+.cache/
+*.bak
+*.tmp
+temp/
