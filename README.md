@@ -357,7 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - your.Hritik
+Your Name - Hritik
 
 email - hritik7645@gmail.com
 
@@ -371,4 +371,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-**Built with ❤️ by [Hritik]** Name
+**Built with ❤️ by Hritik** 
